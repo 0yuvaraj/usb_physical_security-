@@ -40,3 +40,6 @@ A robust, Windows-based physical security application that manages USB mass stor
    ```bash
    git clone [https://github.com/YourUsername/USB-Port-Sentinel.git](https://github.com/YourUsername/USB-Port-Sentinel.git)
    cd USB-Port-Sentinel
+pip install -r requirements.txt
+
+python src/main.py
