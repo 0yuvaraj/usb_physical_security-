@@ -43,3 +43,5 @@ A robust, Windows-based physical security application that manages USB mass stor
 pip install -r requirements.txt
 
 python src/main.py
+
+⚠️ CRITICAL USAGE NOTE: > This application modifies core system registry files. It must be run with Administrator privileges. If you launch it via a standard user terminal, the script is designed to attempt an automatic restart to request Admin elevation.
