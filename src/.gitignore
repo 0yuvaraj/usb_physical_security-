@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+intruder_videos/
+usb_security_log.txt
+project_info.html
+.env
